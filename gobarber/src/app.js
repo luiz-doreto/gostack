@@ -3,6 +3,10 @@ import routes from './routes';
 
 import './database';
 
+/**
+ * @author Luiz Doreto <luiz.doreto14@gmail.com>
+ * @since 2019-10-18
+ */
 class App {
     constructor() {
         this.server = express();
