@@ -1,0 +1,22 @@
+div.header {
+    background-color: rgb(68, 71, 255);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px;
+}
+
+div.header img#logo {
+    width: 180px;
+    height: 45px;
+}
+
+div.profile {
+    color: #fff;
+}
+
+div.profile img {
+    width: 36px;
+    height: 36px;
+}
